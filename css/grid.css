@@ -272,6 +272,10 @@ section> div{
    footer div img{
       display: block;
      }
+
+     #socials-m{
+      display: none;
+     }
   
      .grid-con {
         display: grid;
@@ -431,6 +435,10 @@ section> div{
   
    footer div img{
       display: block;
+     }
+
+     #socials-m{
+      display: none;
      }
   
      .grid-con {
