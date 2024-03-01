@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1177" height="292" viewBox="0 0 1177 292">
+  <g id="D-plchld2" transform="translate(-52 -1224)">
+    <g id="Group_4" data-name="Group 4" transform="translate(52 1224)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="781" height="292" transform="translate(396)" fill="#7c7b7b"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="385" height="292" fill="#7c7b7b"/>
+    </g>
+    <g id="Group_659" data-name="Group 659" transform="translate(787 1332)">
+      <g id="Rectangle_641" data-name="Rectangle 641" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="122" height="77" stroke="none"/>
+        <rect x="0.5" y="0.5" width="121" height="76" fill="none"/>
+      </g>
+      <g id="Group_655" data-name="Group 655" transform="translate(20 17)">
+        <g id="Polygon_1" data-name="Polygon 1" transform="translate(0 12)" fill="#d5d5d5">
+          <path d="M 58.10583114624023 47.5 L 0.8941695690155029 47.5 L 29.5 0.9549199938774109 L 58.10583114624023 47.5 Z" stroke="none"/>
+          <path d="M 29.5 1.909839630126953 L 1.788337707519531 47 L 57.21166229248047 47 L 29.5 1.909839630126953 M 29.5 0 L 59 48 L 0 48 L 29.5 0 Z" stroke="none" fill="#fff"/>
+        </g>
+        <g id="Polygon_2" data-name="Polygon 2" transform="translate(30)" fill="#ecebeb">
+          <path d="M 71.11689758300781 59.5 L 0.8830999732017517 59.5 L 36 0.971833348274231 L 71.11689758300781 59.5 Z" stroke="none"/>
+          <path d="M 36 1.943649291992188 L 1.766189575195312 59 L 70.23381042480469 59 L 36 1.943649291992188 M 36 0 L 72 60 L 0 60 L 36 0 Z" stroke="none" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Ellipse_24" data-name="Ellipse 24" transform="translate(22 9)" fill="#a0a0a0" stroke="#fff" stroke-width="1">
+        <ellipse cx="9.5" cy="9" rx="9.5" ry="9" stroke="none"/>
+        <ellipse cx="9.5" cy="9" rx="9" ry="8.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_660" data-name="Group 660" transform="translate(208 1332)">
+      <g id="Rectangle_641-2" data-name="Rectangle 641" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="122" height="77" stroke="none"/>
+        <rect x="0.5" y="0.5" width="121" height="76" fill="none"/>
+      </g>
+      <g id="Group_655-2" data-name="Group 655" transform="translate(20 17)">
+        <g id="Polygon_1-2" data-name="Polygon 1" transform="translate(0 12)" fill="#d5d5d5">
+          <path d="M 58.10583114624023 47.5 L 0.8941695690155029 47.5 L 29.5 0.9549199938774109 L 58.10583114624023 47.5 Z" stroke="none"/>
+          <path d="M 29.5 1.909839630126953 L 1.788337707519531 47 L 57.21166229248047 47 L 29.5 1.909839630126953 M 29.5 0 L 59 48 L 0 48 L 29.5 0 Z" stroke="none" fill="#fff"/>
+        </g>
+        <g id="Polygon_2-2" data-name="Polygon 2" transform="translate(30)" fill="#ecebeb">
+          <path d="M 71.11689758300781 59.5 L 0.8830999732017517 59.5 L 36 0.971833348274231 L 71.11689758300781 59.5 Z" stroke="none"/>
+          <path d="M 36 1.943649291992188 L 1.766189575195312 59 L 70.23381042480469 59 L 36 1.943649291992188 M 36 0 L 72 60 L 0 60 L 36 0 Z" stroke="none" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Ellipse_24-2" data-name="Ellipse 24" transform="translate(22 9)" fill="#a0a0a0" stroke="#fff" stroke-width="1">
+        <ellipse cx="9.5" cy="9" rx="9.5" ry="9" stroke="none"/>
+        <ellipse cx="9.5" cy="9" rx="9" ry="8.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="537" height="62" viewBox="0 0 537 62">
+  <g id="Group_709" data-name="Group 709" transform="translate(-116 -261)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="537" height="62" rx="31" transform="translate(116 261)" fill="#d5d5d5"/>
+    <g id="Group_649" data-name="Group 649" transform="translate(139.596 276.442)">
+      <g id="Group_648" data-name="Group 648" transform="translate(0 0)">
+        <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="345" height="31" rx="15.5" transform="translate(0.404 -0.442)" fill="#b4b4b4"/>
+          <rect id="Rectangle_5" data-name="Rectangle 5" width="119" height="31" rx="15.5" transform="translate(369.404 -0.442)" fill="#b4b4b4"/>
+        </g>
+      </g>
+      <text id="Search" transform="translate(405.404 20.558)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Search</tspan></text>
+    </g>
+  </g>
+</svg>
